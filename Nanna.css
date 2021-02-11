@@ -1,0 +1,9 @@
+body { 
+    background-color:rgb(172, 128, 120);
+    background-color: linear-gradient(rgba(121, 53, 53, 0.7)) url ;
+    background-size: cover; 
+}
+#title { text-align: center;
+    border: 1px solid;
+    border-color:black;
+}

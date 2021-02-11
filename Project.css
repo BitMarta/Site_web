@@ -1,0 +1,73 @@
+body { 
+    background-color:rgba(192, 155, 165, 0.808);
+    background-color: linear-gradient(rgba(0, 0, 0, 0.7)) url ;
+    background-size: cover; 
+}
+
+#title {
+    background-image: url("images/Of-monsters-and-men-58d1f036386a9.png");
+    background-size: 20%;
+}
+
+
+#indice ul {
+    width:800px; /* Dimensioni della barra del menu */
+    padding: 0;
+    margin:0 auto;
+    display:block;
+    list-style-type:none; /* Stile della lista */
+    }
+ul#indice li {
+    display: inline;
+    padding: 6%;
+    
+}
+#indice a {
+    color:#fff; /* Colore del testo */
+    text-align:center; /* Testo allineato al centro */
+    text-decoration:none; /* Nessuna decorazione */
+    background:#000000; /* Colore dello sfondo */
+    padding:4px 50px; /* Distanza tra le singole voci */
+    border-right:1px solid #ffffff; 
+    }
+
+    #indice a:hover {
+        background:#160306; /* Colore dello sfondo */
+        }
+
+#nanna a {
+    color:rgba(255, 244, 244, 0.829); /* Colore del testo */
+    text-align:center; /* Testo allineato al centro */
+    text-decoration:none; /* Nessuna decorazione */
+    background:#160306; /* Colore dello sfondo */
+    padding:4px 50px; /* Distanza tra le singole voci */
+    border-right:1px solid #f5eeee; 
+    }
+#ragnar a {
+    color:rgba(255, 244, 244, 0.829); /* Colore del testo */
+    text-align:center; /* Testo allineato al centro */
+    text-decoration:none; /* Nessuna decorazione */
+    background:#160306; /* Colore dello sfondo */
+    padding:4px 50px; /* Distanza tra le singole voci */
+    border-right:1px solid #f5eeee; 
+    }
+#brynjar a {
+    color:rgba(255, 244, 244, 0.829); /* Colore del testo */
+    text-align:center; /* Testo allineato al centro */
+    text-decoration:none; /* Nessuna decorazione */
+    background:#160306; /* Colore dello sfondo */
+    padding:4px 50px; /* Distanza tra le singole voci */
+    border-right:1px solid #f5eeee; 
+    }
+
+a:link, a:visited {
+        text-decoration: underline;
+        color: #864f64ad;
+        background-color: transparent;
+    }
+
+a:hover, a:active {
+        text-decoration: underline overline;
+        color: rgb(87, 26, 47);
+    }
+ 
